@@ -1,0 +1,39 @@
+---
+title: ":computer: A Slackbot that recommends Android Libraries"
+layout: post
+date: 2017-11-25 00:00
+tag: 
+    - Slack
+    - Chatbot
+image: assets/images/project/slack-app/slack.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "A slack application for Library Recommendation for Android Application Projects"
+permalink: slack-app
+category: project
+author: urmilparikh95
+externalLink: false
+---
+<!--center>
+<img src="https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png" width="100%;">
+</center-->
+A slack app to recommend android libraries based on the new code changes in its GitHub Repository. The app features a ChatBot for interactive design and good user experience.
+
+---
+
+Technology Stack
+
+- Slack
+- Botkit library
+- Git hooks
+- Node.js
+- MongoDB server
+- Mocking tools like nock
+- Testing tools like sinon and mocha
+- AWS EC2 for BotService Deployment
+- Esprima tool for code parsing and AST generation
+
+---
+
+[Check it out](https://github.com/urmilparikh95/Slack-App) here.
