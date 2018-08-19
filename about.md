@@ -6,4 +6,4 @@ layout: page
 
 Grad Student learning how to craft Softwares. Passionate about DevOps and Automation. Love playing Age of Empires. Member of LiverpoolFC. Ever learning!!  
   
-You can find my pgp key [here](http://urmilparikh.me/PGP.txt).  
+You can find my pgp key [here](http://urmilparikh95.github.io/PGP.txt).  

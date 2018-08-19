@@ -4,7 +4,7 @@ https://keybase.io/urmil_parikh
 
 I hereby claim:
 
-  * I am an admin of http://urmilparikh.me
+  * I am an admin of http://urmilparikh95.github.io
   * I am urmil_parikh (https://keybase.io/urmil_parikh) on keybase.
   * I have a public key ASBbRGYlQSzGUTGD37fxeBMdaHZqPGjxKN-szAQHtEFJwwo
 
@@ -26,7 +26,7 @@ To do so, I am signing this object:
       "seqno": 2262598
     },
     "service": {
-      "hostname": "urmilparikh.me",
+      "hostname": "urmilparikh95.github.io",
       "protocol": "http:"
     },
     "type": "web_service_binding",
